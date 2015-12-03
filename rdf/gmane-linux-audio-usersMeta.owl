@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-linux-audio-users">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T01:52:25.367124</po:createdAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-linux-audio-users/master/rdf/gmane-linux-audio-usersTranslate.ttl</po:ttlFile>
+    <rdfs:label>Snapshot gmane-linux-audio-users</rdfs:label>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-linux-audio-users/master/rdf/gmane-linux-audio-usersMeta.ttl</po:discoveryTTLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-03T01:52:25.367984</po:triplifiedIn>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/gmane-linux-audio-users</po:availableAt>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.linux.audio.users</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-linux-audio-users/master/rdf/gmane-linux-audio-usersMeta.owl</po:discorveryRDFFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-linux-audio-users/master/rdf/gmane-linux-audio-usersTranslate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/gmane-linux-audio-users/master/base/gmane.linux.audio.users</po:originalFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and list admins</po:donatedBy>
+  </rdf:Description>
+</rdf:RDF>
